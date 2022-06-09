@@ -4,7 +4,7 @@
     margin: 0;
   }
   
-  /* Element Styling */
+  /* Styling for each individual element*/
   
   a {
     color: #ffffff;
@@ -105,7 +105,7 @@
   }
   
   .hero {
-    height: 800px;
+    height: 780px;
     width: 100%;
     margin-bottom: 25px;
     background-image: url("../images/digital-marketing-meeting.jpg");
