@@ -10,7 +10,7 @@ Link to active website
 https://pir8scallywag.github.io/jacksparrowstreasure/02-Challenge/Develop/index.html
 
 Link to the code repository(deployed with GitHub):
-https://github.com/pir8scallywag/jacksparrowstreasure.git 
+https://github.com/pir8scallywag/jacksparrowstreasure.git
 
 Installation
 
