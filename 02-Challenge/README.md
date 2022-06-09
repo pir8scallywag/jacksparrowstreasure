@@ -19,10 +19,11 @@ Upload index.html, license.txt, and assets folder to the deployed webserver. The
 
 Usage
 
-Since this a prototype project, it is not yet ready to be responsive for different screens.It can accessed on ny standard browser
+Since this a prototype project, it is not yet ready to be responsive for different screens.It can accessed on any standard browser
 
 screenshot of index.html
 
+![](Develop/assets/images/Screen.png)
 
 Collaborators on this project included fellow students in 2022 UNC Summer cohort for Coding Bootcamp
 
