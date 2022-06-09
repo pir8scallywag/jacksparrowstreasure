@@ -6,7 +6,6 @@ This challenge is an overhaul and code refactor for the Horiseon website homepag
 Tasks completed
 
 
-Links
 
 Link to the deployed website 
 
