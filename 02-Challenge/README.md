@@ -6,10 +6,11 @@ This challenge is an overhaul and code refactor for the Horiseon website homepag
 Tasks completed
 
 
+Link to active website
+https://pir8scallywag.github.io/jacksparrowstreasure/02-Challenge/Develop/index.html
 
-Link to the deployed website 
-
-Link to the code repository(deployed with GitHub)
+Link to the code repository(deployed with GitHub):
+https://github.com/pir8scallywag/jacksparrowstreasure.git
 
 Installation
 
